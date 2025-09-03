@@ -8,8 +8,8 @@
 
 ```bash
 # 1. Κλωνοποίηση του repository
-git clone https://github.com/avasileios/bookstore.git
-cd bookstore
+git clone https://github.com/Marilena-A/Cf7.git
+cd Cf7
 
 # 2. Εκκίνηση όλου του stack
 docker-compose up -d --build
